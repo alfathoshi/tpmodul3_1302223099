@@ -1,0 +1,10 @@
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\bin\Debug\tpmodul3_1302223099.exe.config
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\bin\Debug\tpmodul3_1302223099.exe
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\bin\Debug\tpmodul3_1302223099.pdb
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.csproj.AssemblyReference.cache
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.Form1.resources
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.Properties.Resources.resources
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.csproj.GenerateResource.cache
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.csproj.CoreCompileInputs.cache
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.exe
+C:\Users\alfat\Documents\College\C#\tpmodul3_1302223099\tpmodul3_1302223099\obj\Debug\tpmodul3_1302223099.pdb
