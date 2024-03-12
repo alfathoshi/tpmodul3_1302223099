@@ -12,3 +12,4 @@ C:\Users\alfat\Documents\College\C#\tpmodul4_1302223099\tpmodul4_1302223099\obj\
 C:\Users\alfat\Documents\College\C#\tpmodul4_1302223099\tpmodul4_1302223099\obj\Debug\net8.0\tpmodul4_1302223099.pdb
 C:\Users\alfat\Documents\College\C#\tpmodul4_1302223099\tpmodul4_1302223099\obj\Debug\net8.0\tpmodul4_1302223099.genruntimeconfig.cache
 C:\Users\alfat\Documents\College\C#\tpmodul4_1302223099\tpmodul4_1302223099\obj\Debug\net8.0\ref\tpmodul4_1302223099.dll
+C:\Users\alfat\Documents\College\C#\tpmodul4_1302223099\tpmodul4_1302223099\obj\Debug\net8.0\tpmodul4_1302223099.sourcelink.json
