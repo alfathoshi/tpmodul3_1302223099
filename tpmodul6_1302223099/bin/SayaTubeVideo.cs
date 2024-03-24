@@ -19,18 +19,25 @@ namespace tpmodul6_1302223099.bin
 
             Debug.Assert(title.Length < 100 && title != null, "Judul tidak boleh kosong dan maksimal 100 karakter");
 
+
             this.title = title;
             id = rand.Next(10000,99999);
             playCount = 0;
         }
-        public int getId() 
-        { 
-            return id; 
-        }
         public void IncreasePlayCount(int play)
         {
-            Debug.Assert(play < 10000000, "Input terlalu banyak");
-            playCount += play;
+           Debug.Assert(play < 10000000, "Input terlalu banyak");
+           try
+            {
+                checked
+                {
+                    playCount += play;
+                }
+            }
+            catch (OverflowException e) 
+            {
+                Console.WriteLine("Terjadi overflow " + e.Message);
+            }   
         }
         public void PrintVideoDetails()
         {

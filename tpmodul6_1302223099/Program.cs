@@ -6,5 +6,12 @@ internal class Program
     {
         SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - Bintang");
         video.PrintVideoDetails();
+
+        for (int i = 0; i < 9999999; i++)
+        {
+            video.IncreasePlayCount(i);
+            video.PrintVideoDetails();
+        }
+
     }
 }
